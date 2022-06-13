@@ -1,0 +1,10 @@
+
+Nuevo Registro de Venta
+Nombre: Jugo
+Con un stock de: 5
+Con un precio de:$15.00
+
+Nuevo Registro de Venta
+Nombre: PC
+Con un stock de: 1
+Con un precio de:$5,000.00
